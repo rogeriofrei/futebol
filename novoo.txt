@@ -1,0 +1,747 @@
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1ˢᵈ" tvg-logo="https://picons.my-ott.com/SportTV/SPORT.TV1.png" group-title="PORTUGAL HD",SPORT TV 1ˢᵈ
+http://rtx.p9325.top:8080/7HyxBz36PDr9/5w4pzp7R5pXG/62440
+#EXTINF:-1 tvg-id="SPORT TV 1 HD" tvg-name="SPORT TV 1ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV1HD.png" group-title="PORTUGAL HD",SPORT TV 1ᴴᴰ
+http://rtx.p9325.top:8080/7HyxBz36PDr9/5w4pzp7R5pXG/62439
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1ᴴᴰ2k" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV1HD.png" group-title="PORTUGAL HD",SPORT TV 1ᴴᴰ2k
+http://rtx.p9325.top:8080/7HyxBz36PDr9/5w4pzp7R5pXG/62442
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV1HD.png" group-title="PORTUGAL HD",SPORT TV 1ᶠᴴᴰ
+http://rtx.p9325.top:8080/7HyxBz36PDr9/5w4pzp7R5pXG/62441
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1 ᴴᴰ1280" tvg-logo="https://picons.my-ott.com/picons/SPORT_TV_1_HD.png" group-title="PORTUGAL HD",SPORT TV 1 ᴴᴰ1280
+http://rtx.p9325.top:8080/7HyxBz36PDr9/5w4pzp7R5pXG/43353
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1 ᴴᴰ1BIT" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV1HD.png" group-title="PORTUGAL HD",SPORT TV 1 ᴴᴰ1BIT
+http://rtx.p9325.top:8080/7HyxBz36PDr9/5w4pzp7R5pXG/62438
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1 UHD" tvg-logo="https://picons.my-ott.com/picons/SPORT_TV_1_HD.png" group-title="PORTUGAL HD",SPORT TV 1 UHD
+http://rtx.p9325.top:8080/7HyxBz36PDr9/5w4pzp7R5pXG/21640
+#EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="SPORT TV 2 ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV2HD.png" group-title="PORTUGAL HD",SPORT TV 2 ᴴᴰ
+http://rtx.p9325.top:8080/7HyxBz36PDr9/5w4pzp7R5pXG/54
+#EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="SPORT TV 2ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV2HD.png" group-title="PORTUGAL HD",SPORT TV 2ᶠᴴᴰ
+http://rtx.p9325.top:8080/7HyxBz36PDr9/5w4pzp7R5pXG/56
+#EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="SPORT TV 3 ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV3HD.png" group-title="PORTUGAL HD",SPORT TV 3 ᴴᴰ
+http://rtx.p9325.top:8080/7HyxBz36PDr9/5w4pzp7R5pXG/57
+#EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="SPORT TV 3ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV3HD.png" group-title="PORTUGAL HD",SPORT TV 3ᶠᴴᴰ
+http://rtx.p9325.top:8080/7HyxBz36PDr9/5w4pzp7R5pXG/59
+#EXTINF:-1 tvg-id="SPORT TV 4 HD" tvg-name="SPORT TV 4 ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.T4HD.png" group-title="PORTUGAL HD",SPORT TV 4 ᴴᴰ
+http://rtx.p9325.top:8080/7HyxBz36PDr9/5w4pzp7R5pXG/60
+#EXTINF:-1 tvg-id="SPORT TV 4 HD" tvg-name="SPORT TV 4ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.T4HD.png" group-title="PORTUGAL HD",SPORT TV 4ᶠᴴᴰ
+http://rtx.p9325.top:8080/7HyxBz36PDr9/5w4pzp7R5pXG/62
+#EXTINF:-1 tvg-id="SPORT TV 5" tvg-name="SPORT TV 5 ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV5HD.png" group-title="PORTUGAL HD",SPORT TV 5 ᴴᴰ
+http://rtx.p9325.top:8080/7HyxBz36PDr9/5w4pzp7R5pXG/63
+#EXTINF:-1 tvg-id="SPORTV5HD" tvg-name="SPORT TV 5ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV5HD.png" group-title="PORTUGAL HD",SPORT TV 5ᶠᴴᴰ
+http://rtx.p9325.top:8080/7HyxBz36PDr9/5w4pzp7R5pXG/65
+#EXTINF:-1 tvg-id="SPORT TV 6 HD" tvg-name="SPORT TV 6ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV6HD.png" group-title="PORTUGAL HD",SPORT TV 6ᴴᴰ
+http://rtx.p9325.top:8080/7HyxBz36PDr9/5w4pzp7R5pXG/37967
+#EXTINF:-1 tvg-id="SPORT TV 6 FHD" tvg-name="SPORT TV 6ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV6HD.png" group-title="PORTUGAL HD",SPORT TV 6ᶠᴴᴰ
+http://rtx.p9325.top:8080/7HyxBz36PDr9/5w4pzp7R5pXG/40698
+#EXTINF:-1 tvg-id="BTV FHD" tvg-name="BTVˢᵈ" tvg-logo="https://picons.my-ott.com/picons/BTV.png" group-title="PORTUGAL HD",BTVˢᵈ
+http://rtx.p9325.top:8080/7HyxBz36PDr9/5w4pzp7R5pXG/67
+#EXTINF:-1 tvg-id="BTV HD" tvg-name="BTVᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/BTV_HD.png" group-title="PORTUGAL HD",BTVᴴᴰ
+http://rtx.p9325.top:8080/7HyxBz36PDr9/5w4pzp7R5pXG/68
+#EXTINF:-1 tvg-id="BTV FHD" tvg-name="BTVᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/BTV_HD.png" group-title="PORTUGAL HD",BTVᶠᴴᴰ
+http://rtx.p9325.top:8080/7HyxBz36PDr9/5w4pzp7R5pXG/70
+#EXTINF:-1 tvg-id="BTV FHD" tvg-name="BTV  EXPERIENCEᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/BTV_HD.png" group-title="PORTUGAL HD",BTV  EXPERIENCEᴴᴰ
+http://rtx.p9325.top:8080/7HyxBz36PDr9/5w4pzp7R5pXG/63252
+#EXTINF:-1 tvg-id="elevensports1HD" tvg-name="ELEVEN SPORTS 1ˢᵈ" tvg-logo="https://picons.my-ott.com/eleven/ELEVEN1_NEW.png" group-title="PORTUGAL HD",ELEVEN SPORTS 1ˢᵈ
+http://rtx.p9325.top:8080/7HyxBz36PDr9/5w4pzp7R5pXG/18230
+#EXTINF:-1 tvg-id="elevensports1HD" tvg-name="ELEVEN SPORTS 1ᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_1_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 1ᴴᴰ
+http://rtx.p9325.top:8080/7HyxBz36PDr9/5w4pzp7R5pXG/73
+#EXTINF:-1 tvg-id="elevensports1HD" tvg-name="ELEVEN SPORTS 1ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_1_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 1ᶠᴴᴰ
+http://rtx.p9325.top:8080/7HyxBz36PDr9/5w4pzp7R5pXG/16052
+#EXTINF:-1 tvg-id="elevensports2HD" tvg-name="ELEVEN SPORTS 2ᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_2_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 2ᴴᴰ
+http://rtx.p9325.top:8080/7HyxBz36PDr9/5w4pzp7R5pXG/75
+#EXTINF:-1 tvg-id="elevensports2FHD" tvg-name="ELEVEN SPORTS 2ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_2_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 2ᶠᴴᴰ
+http://rtx.p9325.top:8080/7HyxBz36PDr9/5w4pzp7R5pXG/76
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 3" tvg-name="ELEVEN SPORTS 3ᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_3_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 3ᴴᴰ
+http://rtx.p9325.top:8080/7HyxBz36PDr9/5w4pzp7R5pXG/77
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 3 HD" tvg-name="ELEVEN SPORTS 3ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_3_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 3ᶠᴴᴰ
+http://rtx.p9325.top:8080/7HyxBz36PDr9/5w4pzp7R5pXG/38244
+#EXTINF:-1 tvg-id="elevensports4HD" tvg-name="ELEVEN SPORTS 4ᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_4_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 4ᴴᴰ
+http://rtx.p9325.top:8080/7HyxBz36PDr9/5w4pzp7R5pXG/78
+#EXTINF:-1 tvg-id="elevensports4FHD" tvg-name="ELEVEN SPORTS 4ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_4_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 4ᶠᴴᴰ
+http://rtx.p9325.top:8080/7HyxBz36PDr9/5w4pzp7R5pXG/38245
+#EXTINF:-1 tvg-id="elevensports5HD" tvg-name="ELEVEN SPORTS 5ᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_5_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 5ᴴᴰ
+http://rtx.p9325.top:8080/7HyxBz36PDr9/5w4pzp7R5pXG/79
+#EXTINF:-1 tvg-id="elevensports5FHD" tvg-name="ELEVEN SPORTS 5ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_5_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 5ᶠᴴᴰ
+http://rtx.p9325.top:8080/7HyxBz36PDr9/5w4pzp7R5pXG/38246
+#EXTINF:-1 tvg-id="elevensports6HD" tvg-name="ELEVEN SPORTS 6ᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/ELEVEN_SPORTS_6_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 6ᴴᴰ
+http://rtx.p9325.top:8080/7HyxBz36PDr9/5w4pzp7R5pXG/80
+#EXTINF:-1 tvg-id="elevensports6FHD" tvg-name="ELEVEN SPORTS 6ᶠᴴᴰ " tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_6_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 6ᶠᴴᴰ 
+http://rtx.p9325.top:8080/7HyxBz36PDr9/5w4pzp7R5pXG/38247
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1ˢᵈ" tvg-logo="https://picons.my-ott.com/SportTV/SPORT.TV1.png" group-title="PORTUGAL HD",SPORT TV 1ˢᵈ
+http://rtx.p9325.top:8080/CTmU04sePN/VvNetxpApL/62440
+#EXTINF:-1 tvg-id="SPORT TV 1 HD" tvg-name="SPORT TV 1ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV1HD.png" group-title="PORTUGAL HD",SPORT TV 1ᴴᴰ
+http://rtx.p9325.top:8080/CTmU04sePN/VvNetxpApL/62439
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1ᴴᴰ2k" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV1HD.png" group-title="PORTUGAL HD",SPORT TV 1ᴴᴰ2k
+http://rtx.p9325.top:8080/CTmU04sePN/VvNetxpApL/62442
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV1HD.png" group-title="PORTUGAL HD",SPORT TV 1ᶠᴴᴰ
+http://rtx.p9325.top:8080/CTmU04sePN/VvNetxpApL/62441
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1 ᴴᴰ1280" tvg-logo="https://picons.my-ott.com/picons/SPORT_TV_1_HD.png" group-title="PORTUGAL HD",SPORT TV 1 ᴴᴰ1280
+http://rtx.p9325.top:8080/CTmU04sePN/VvNetxpApL/43353
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1 ᴴᴰ1BIT" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV1HD.png" group-title="PORTUGAL HD",SPORT TV 1 ᴴᴰ1BIT
+http://rtx.p9325.top:8080/CTmU04sePN/VvNetxpApL/62438
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1 UHD" tvg-logo="https://picons.my-ott.com/picons/SPORT_TV_1_HD.png" group-title="PORTUGAL HD",SPORT TV 1 UHD
+http://rtx.p9325.top:8080/CTmU04sePN/VvNetxpApL/21640
+#EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="SPORT TV 2 ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV2HD.png" group-title="PORTUGAL HD",SPORT TV 2 ᴴᴰ
+http://rtx.p9325.top:8080/CTmU04sePN/VvNetxpApL/54
+#EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="SPORT TV 2ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV2HD.png" group-title="PORTUGAL HD",SPORT TV 2ᶠᴴᴰ
+http://rtx.p9325.top:8080/CTmU04sePN/VvNetxpApL/56
+#EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="SPORT TV 3 ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV3HD.png" group-title="PORTUGAL HD",SPORT TV 3 ᴴᴰ
+http://rtx.p9325.top:8080/CTmU04sePN/VvNetxpApL/57
+#EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="SPORT TV 3ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV3HD.png" group-title="PORTUGAL HD",SPORT TV 3ᶠᴴᴰ
+http://rtx.p9325.top:8080/CTmU04sePN/VvNetxpApL/59
+#EXTINF:-1 tvg-id="SPORT TV 4 HD" tvg-name="SPORT TV 4 ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.T4HD.png" group-title="PORTUGAL HD",SPORT TV 4 ᴴᴰ
+http://rtx.p9325.top:8080/CTmU04sePN/VvNetxpApL/60
+#EXTINF:-1 tvg-id="SPORT TV 4 HD" tvg-name="SPORT TV 4ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.T4HD.png" group-title="PORTUGAL HD",SPORT TV 4ᶠᴴᴰ
+http://rtx.p9325.top:8080/CTmU04sePN/VvNetxpApL/62
+#EXTINF:-1 tvg-id="SPORT TV 5" tvg-name="SPORT TV 5 ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV5HD.png" group-title="PORTUGAL HD",SPORT TV 5 ᴴᴰ
+http://rtx.p9325.top:8080/CTmU04sePN/VvNetxpApL/63
+#EXTINF:-1 tvg-id="SPORTV5HD" tvg-name="SPORT TV 5ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV5HD.png" group-title="PORTUGAL HD",SPORT TV 5ᶠᴴᴰ
+http://rtx.p9325.top:8080/CTmU04sePN/VvNetxpApL/65
+#EXTINF:-1 tvg-id="SPORT TV 6 HD" tvg-name="SPORT TV 6ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV6HD.png" group-title="PORTUGAL HD",SPORT TV 6ᴴᴰ
+http://rtx.p9325.top:8080/CTmU04sePN/VvNetxpApL/37967
+#EXTINF:-1 tvg-id="SPORT TV 6 FHD" tvg-name="SPORT TV 6ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV6HD.png" group-title="PORTUGAL HD",SPORT TV 6ᶠᴴᴰ
+http://rtx.p9325.top:8080/CTmU04sePN/VvNetxpApL/40698
+#EXTINF:-1 tvg-id="BTV FHD" tvg-name="BTVˢᵈ" tvg-logo="https://picons.my-ott.com/picons/BTV.png" group-title="PORTUGAL HD",BTVˢᵈ
+http://rtx.p9325.top:8080/CTmU04sePN/VvNetxpApL/67
+#EXTINF:-1 tvg-id="BTV HD" tvg-name="BTVᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/BTV_HD.png" group-title="PORTUGAL HD",BTVᴴᴰ
+http://rtx.p9325.top:8080/CTmU04sePN/VvNetxpApL/68
+#EXTINF:-1 tvg-id="BTV FHD" tvg-name="BTVᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/BTV_HD.png" group-title="PORTUGAL HD",BTVᶠᴴᴰ
+http://rtx.p9325.top:8080/CTmU04sePN/VvNetxpApL/70
+#EXTINF:-1 tvg-id="BTV FHD" tvg-name="BTV  EXPERIENCEᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/BTV_HD.png" group-title="PORTUGAL HD",BTV  EXPERIENCEᴴᴰ
+http://rtx.p9325.top:8080/CTmU04sePN/VvNetxpApL/63252
+#EXTINF:-1 tvg-id="elevensports1HD" tvg-name="ELEVEN SPORTS 1ˢᵈ" tvg-logo="https://picons.my-ott.com/eleven/ELEVEN1_NEW.png" group-title="PORTUGAL HD",ELEVEN SPORTS 1ˢᵈ
+http://rtx.p9325.top:8080/CTmU04sePN/VvNetxpApL/18230
+#EXTINF:-1 tvg-id="elevensports1HD" tvg-name="ELEVEN SPORTS 1ᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_1_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 1ᴴᴰ
+http://rtx.p9325.top:8080/CTmU04sePN/VvNetxpApL/73
+#EXTINF:-1 tvg-id="elevensports1HD" tvg-name="ELEVEN SPORTS 1ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_1_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 1ᶠᴴᴰ
+http://rtx.p9325.top:8080/CTmU04sePN/VvNetxpApL/16052
+#EXTINF:-1 tvg-id="elevensports2HD" tvg-name="ELEVEN SPORTS 2ᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_2_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 2ᴴᴰ
+http://rtx.p9325.top:8080/CTmU04sePN/VvNetxpApL/75
+#EXTINF:-1 tvg-id="elevensports2FHD" tvg-name="ELEVEN SPORTS 2ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_2_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 2ᶠᴴᴰ
+http://rtx.p9325.top:8080/CTmU04sePN/VvNetxpApL/76
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 3" tvg-name="ELEVEN SPORTS 3ᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_3_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 3ᴴᴰ
+http://rtx.p9325.top:8080/CTmU04sePN/VvNetxpApL/77
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 3 HD" tvg-name="ELEVEN SPORTS 3ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_3_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 3ᶠᴴᴰ
+http://rtx.p9325.top:8080/CTmU04sePN/VvNetxpApL/38244
+#EXTINF:-1 tvg-id="elevensports4HD" tvg-name="ELEVEN SPORTS 4ᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_4_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 4ᴴᴰ
+http://rtx.p9325.top:8080/CTmU04sePN/VvNetxpApL/78
+#EXTINF:-1 tvg-id="elevensports4FHD" tvg-name="ELEVEN SPORTS 4ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_4_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 4ᶠᴴᴰ
+http://rtx.p9325.top:8080/CTmU04sePN/VvNetxpApL/38245
+#EXTINF:-1 tvg-id="elevensports5HD" tvg-name="ELEVEN SPORTS 5ᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_5_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 5ᴴᴰ
+http://rtx.p9325.top:8080/CTmU04sePN/VvNetxpApL/79
+#EXTINF:-1 tvg-id="elevensports5FHD" tvg-name="ELEVEN SPORTS 5ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_5_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 5ᶠᴴᴰ
+http://rtx.p9325.top:8080/CTmU04sePN/VvNetxpApL/38246
+#EXTINF:-1 tvg-id="elevensports6HD" tvg-name="ELEVEN SPORTS 6ᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/ELEVEN_SPORTS_6_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 6ᴴᴰ
+http://rtx.p9325.top:8080/CTmU04sePN/VvNetxpApL/80
+#EXTINF:-1 tvg-id="elevensports6FHD" tvg-name="ELEVEN SPORTS 6ᶠᴴᴰ " tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_6_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 6ᶠᴴᴰ 
+http://rtx.p9325.top:8080/CTmU04sePN/VvNetxpApL/38247
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV1HD.png" group-title="PORTUGAL HD",SPORT TV 1ᶠᴴᴰ
+http://rtx.p9325.top:8080/OzM7H8zvzG/6hqLZ6O3ev/62441
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1 ᴴᴰ1280" tvg-logo="https://picons.my-ott.com/picons/SPORT_TV_1_HD.png" group-title="PORTUGAL HD",SPORT TV 1 ᴴᴰ1280
+http://rtx.p9325.top:8080/OzM7H8zvzG/6hqLZ6O3ev/43353
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1 ᴴᴰ1BIT" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV1HD.png" group-title="PORTUGAL HD",SPORT TV 1 ᴴᴰ1BIT
+http://rtx.p9325.top:8080/OzM7H8zvzG/6hqLZ6O3ev/62438
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1 UHD" tvg-logo="https://picons.my-ott.com/picons/SPORT_TV_1_HD.png" group-title="PORTUGAL HD",SPORT TV 1 UHD
+http://rtx.p9325.top:8080/OzM7H8zvzG/6hqLZ6O3ev/21640
+#EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="SPORT TV 2 ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV2HD.png" group-title="PORTUGAL HD",SPORT TV 2 ᴴᴰ
+http://rtx.p9325.top:8080/OzM7H8zvzG/6hqLZ6O3ev/54
+#EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="SPORT TV 2ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV2HD.png" group-title="PORTUGAL HD",SPORT TV 2ᶠᴴᴰ
+http://rtx.p9325.top:8080/OzM7H8zvzG/6hqLZ6O3ev/56
+#EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="SPORT TV 3 ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV3HD.png" group-title="PORTUGAL HD",SPORT TV 3 ᴴᴰ
+http://rtx.p9325.top:8080/OzM7H8zvzG/6hqLZ6O3ev/57
+#EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="SPORT TV 3ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV3HD.png" group-title="PORTUGAL HD",SPORT TV 3ᶠᴴᴰ
+http://rtx.p9325.top:8080/OzM7H8zvzG/6hqLZ6O3ev/59
+#EXTINF:-1 tvg-id="SPORT TV 4 HD" tvg-name="SPORT TV 4 ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.T4HD.png" group-title="PORTUGAL HD",SPORT TV 4 ᴴᴰ
+http://rtx.p9325.top:8080/OzM7H8zvzG/6hqLZ6O3ev/60
+#EXTINF:-1 tvg-id="SPORT TV 4 HD" tvg-name="SPORT TV 4ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.T4HD.png" group-title="PORTUGAL HD",SPORT TV 4ᶠᴴᴰ
+http://rtx.p9325.top:8080/OzM7H8zvzG/6hqLZ6O3ev/62
+#EXTINF:-1 tvg-id="SPORT TV 5" tvg-name="SPORT TV 5 ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV5HD.png" group-title="PORTUGAL HD",SPORT TV 5 ᴴᴰ
+http://rtx.p9325.top:8080/OzM7H8zvzG/6hqLZ6O3ev/63
+#EXTINF:-1 tvg-id="SPORTV5HD" tvg-name="SPORT TV 5ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV5HD.png" group-title="PORTUGAL HD",SPORT TV 5ᶠᴴᴰ
+http://rtx.p9325.top:8080/OzM7H8zvzG/6hqLZ6O3ev/65
+#EXTINF:-1 tvg-id="SPORT TV 6 HD" tvg-name="SPORT TV 6ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV6HD.png" group-title="PORTUGAL HD",SPORT TV 6ᴴᴰ
+http://rtx.p9325.top:8080/OzM7H8zvzG/6hqLZ6O3ev/37967
+#EXTINF:-1 tvg-id="SPORT TV 6 FHD" tvg-name="SPORT TV 6ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV6HD.png" group-title="PORTUGAL HD",SPORT TV 6ᶠᴴᴰ
+http://rtx.p9325.top:8080/OzM7H8zvzG/6hqLZ6O3ev/40698
+#EXTINF:-1 tvg-id="BTV FHD" tvg-name="BTVˢᵈ" tvg-logo="https://picons.my-ott.com/picons/BTV.png" group-title="PORTUGAL HD",BTVˢᵈ
+http://rtx.p9325.top:8080/OzM7H8zvzG/6hqLZ6O3ev/67
+#EXTINF:-1 tvg-id="BTV HD" tvg-name="BTVᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/BTV_HD.png" group-title="PORTUGAL HD",BTVᴴᴰ
+http://rtx.p9325.top:8080/OzM7H8zvzG/6hqLZ6O3ev/68
+#EXTINF:-1 tvg-id="BTV FHD" tvg-name="BTVᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/BTV_HD.png" group-title="PORTUGAL HD",BTVᶠᴴᴰ
+http://rtx.p9325.top:8080/OzM7H8zvzG/6hqLZ6O3ev/70
+#EXTINF:-1 tvg-id="BTV FHD" tvg-name="BTV  EXPERIENCEᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/BTV_HD.png" group-title="PORTUGAL HD",BTV  EXPERIENCEᴴᴰ
+http://rtx.p9325.top:8080/OzM7H8zvzG/6hqLZ6O3ev/63252
+#EXTINF:-1 tvg-id="elevensports1HD" tvg-name="ELEVEN SPORTS 1ˢᵈ" tvg-logo="https://picons.my-ott.com/eleven/ELEVEN1_NEW.png" group-title="PORTUGAL HD",ELEVEN SPORTS 1ˢᵈ
+http://rtx.p9325.top:8080/OzM7H8zvzG/6hqLZ6O3ev/18230
+#EXTINF:-1 tvg-id="elevensports1HD" tvg-name="ELEVEN SPORTS 1ᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_1_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 1ᴴᴰ
+http://rtx.p9325.top:8080/OzM7H8zvzG/6hqLZ6O3ev/73
+#EXTINF:-1 tvg-id="elevensports1HD" tvg-name="ELEVEN SPORTS 1ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_1_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 1ᶠᴴᴰ
+http://rtx.p9325.top:8080/OzM7H8zvzG/6hqLZ6O3ev/16052
+#EXTINF:-1 tvg-id="elevensports2HD" tvg-name="ELEVEN SPORTS 2ᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_2_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 2ᴴᴰ
+http://rtx.p9325.top:8080/OzM7H8zvzG/6hqLZ6O3ev/75
+#EXTINF:-1 tvg-id="elevensports2FHD" tvg-name="ELEVEN SPORTS 2ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_2_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 2ᶠᴴᴰ
+http://rtx.p9325.top:8080/OzM7H8zvzG/6hqLZ6O3ev/76
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 3" tvg-name="ELEVEN SPORTS 3ᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_3_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 3ᴴᴰ
+http://rtx.p9325.top:8080/OzM7H8zvzG/6hqLZ6O3ev/77
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 3 HD" tvg-name="ELEVEN SPORTS 3ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_3_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 3ᶠᴴᴰ
+http://rtx.p9325.top:8080/OzM7H8zvzG/6hqLZ6O3ev/38244
+#EXTINF:-1 tvg-id="elevensports4HD" tvg-name="ELEVEN SPORTS 4ᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_4_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 4ᴴᴰ
+http://rtx.p9325.top:8080/OzM7H8zvzG/6hqLZ6O3ev/78
+#EXTINF:-1 tvg-id="elevensports4FHD" tvg-name="ELEVEN SPORTS 4ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_4_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 4ᶠᴴᴰ
+http://rtx.p9325.top:8080/OzM7H8zvzG/6hqLZ6O3ev/38245
+#EXTINF:-1 tvg-id="elevensports5HD" tvg-name="ELEVEN SPORTS 5ᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_5_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 5ᴴᴰ
+http://rtx.p9325.top:8080/OzM7H8zvzG/6hqLZ6O3ev/79
+#EXTINF:-1 tvg-id="elevensports5FHD" tvg-name="ELEVEN SPORTS 5ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_5_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 5ᶠᴴᴰ
+http://rtx.p9325.top:8080/OzM7H8zvzG/6hqLZ6O3ev/38246
+#EXTINF:-1 tvg-id="elevensports6HD" tvg-name="ELEVEN SPORTS 6ᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/ELEVEN_SPORTS_6_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 6ᴴᴰ
+http://rtx.p9325.top:8080/OzM7H8zvzG/6hqLZ6O3ev/80
+#EXTINF:-1 tvg-id="elevensports6FHD" tvg-name="ELEVEN SPORTS 6ᶠᴴᴰ " tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_6_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 6ᶠᴴᴰ 
+http://rtx.p9325.top:8080/OzM7H8zvzG/6hqLZ6O3ev/38247
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1ˢᵈ" tvg-logo="https://picons.my-ott.com/SportTV/SPORT.TV1.png" group-title="PORTUGAL HD",SPORT TV 1ˢᵈ
+http://rtx.p9325.top:8080/p8GwjVZpk9hk/3buXXhrB9rka/62440
+#EXTINF:-1 tvg-id="SPORT TV 1 HD" tvg-name="SPORT TV 1ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV1HD.png" group-title="PORTUGAL HD",SPORT TV 1ᴴᴰ
+http://rtx.p9325.top:8080/p8GwjVZpk9hk/3buXXhrB9rka/62439
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1ᴴᴰ2k" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV1HD.png" group-title="PORTUGAL HD",SPORT TV 1ᴴᴰ2k
+http://rtx.p9325.top:8080/p8GwjVZpk9hk/3buXXhrB9rka/62442
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV1HD.png" group-title="PORTUGAL HD",SPORT TV 1ᶠᴴᴰ
+http://rtx.p9325.top:8080/p8GwjVZpk9hk/3buXXhrB9rka/62441
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1 ᴴᴰ1280" tvg-logo="https://picons.my-ott.com/picons/SPORT_TV_1_HD.png" group-title="PORTUGAL HD",SPORT TV 1 ᴴᴰ1280
+http://rtx.p9325.top:8080/p8GwjVZpk9hk/3buXXhrB9rka/43353
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1 ᴴᴰ1BIT" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV1HD.png" group-title="PORTUGAL HD",SPORT TV 1 ᴴᴰ1BIT
+http://rtx.p9325.top:8080/p8GwjVZpk9hk/3buXXhrB9rka/62438
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1 UHD" tvg-logo="https://picons.my-ott.com/picons/SPORT_TV_1_HD.png" group-title="PORTUGAL HD",SPORT TV 1 UHD
+http://rtx.p9325.top:8080/p8GwjVZpk9hk/3buXXhrB9rka/21640
+#EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="SPORT TV 2 ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV2HD.png" group-title="PORTUGAL HD",SPORT TV 2 ᴴᴰ
+http://rtx.p9325.top:8080/p8GwjVZpk9hk/3buXXhrB9rka/54
+#EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="SPORT TV 2ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV2HD.png" group-title="PORTUGAL HD",SPORT TV 2ᶠᴴᴰ
+http://rtx.p9325.top:8080/p8GwjVZpk9hk/3buXXhrB9rka/56
+#EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="SPORT TV 3 ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV3HD.png" group-title="PORTUGAL HD",SPORT TV 3 ᴴᴰ
+http://rtx.p9325.top:8080/p8GwjVZpk9hk/3buXXhrB9rka/57
+#EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="SPORT TV 3ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV3HD.png" group-title="PORTUGAL HD",SPORT TV 3ᶠᴴᴰ
+http://rtx.p9325.top:8080/p8GwjVZpk9hk/3buXXhrB9rka/59
+#EXTINF:-1 tvg-id="SPORT TV 4 HD" tvg-name="SPORT TV 4 ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.T4HD.png" group-title="PORTUGAL HD",SPORT TV 4 ᴴᴰ
+http://rtx.p9325.top:8080/p8GwjVZpk9hk/3buXXhrB9rka/60
+#EXTINF:-1 tvg-id="SPORT TV 4 HD" tvg-name="SPORT TV 4ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.T4HD.png" group-title="PORTUGAL HD",SPORT TV 4ᶠᴴᴰ
+http://rtx.p9325.top:8080/p8GwjVZpk9hk/3buXXhrB9rka/62
+#EXTINF:-1 tvg-id="SPORT TV 5" tvg-name="SPORT TV 5 ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV5HD.png" group-title="PORTUGAL HD",SPORT TV 5 ᴴᴰ
+http://rtx.p9325.top:8080/p8GwjVZpk9hk/3buXXhrB9rka/63
+#EXTINF:-1 tvg-id="SPORTV5HD" tvg-name="SPORT TV 5ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV5HD.png" group-title="PORTUGAL HD",SPORT TV 5ᶠᴴᴰ
+http://rtx.p9325.top:8080/p8GwjVZpk9hk/3buXXhrB9rka/65
+#EXTINF:-1 tvg-id="SPORT TV 6 HD" tvg-name="SPORT TV 6ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV6HD.png" group-title="PORTUGAL HD",SPORT TV 6ᴴᴰ
+http://rtx.p9325.top:8080/p8GwjVZpk9hk/3buXXhrB9rka/37967
+#EXTINF:-1 tvg-id="SPORT TV 6 FHD" tvg-name="SPORT TV 6ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV6HD.png" group-title="PORTUGAL HD",SPORT TV 6ᶠᴴᴰ
+http://rtx.p9325.top:8080/p8GwjVZpk9hk/3buXXhrB9rka/40698
+#EXTINF:-1 tvg-id="BTV FHD" tvg-name="BTVˢᵈ" tvg-logo="https://picons.my-ott.com/picons/BTV.png" group-title="PORTUGAL HD",BTVˢᵈ
+http://rtx.p9325.top:8080/p8GwjVZpk9hk/3buXXhrB9rka/67
+#EXTINF:-1 tvg-id="BTV HD" tvg-name="BTVᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/BTV_HD.png" group-title="PORTUGAL HD",BTVᴴᴰ
+http://rtx.p9325.top:8080/p8GwjVZpk9hk/3buXXhrB9rka/68
+#EXTINF:-1 tvg-id="BTV FHD" tvg-name="BTVᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/BTV_HD.png" group-title="PORTUGAL HD",BTVᶠᴴᴰ
+http://rtx.p9325.top:8080/p8GwjVZpk9hk/3buXXhrB9rka/70
+#EXTINF:-1 tvg-id="BTV FHD" tvg-name="BTV  EXPERIENCEᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/BTV_HD.png" group-title="PORTUGAL HD",BTV  EXPERIENCEᴴᴰ
+http://rtx.p9325.top:8080/p8GwjVZpk9hk/3buXXhrB9rka/63252
+#EXTINF:-1 tvg-id="elevensports1HD" tvg-name="ELEVEN SPORTS 1ˢᵈ" tvg-logo="https://picons.my-ott.com/eleven/ELEVEN1_NEW.png" group-title="PORTUGAL HD",ELEVEN SPORTS 1ˢᵈ
+http://rtx.p9325.top:8080/p8GwjVZpk9hk/3buXXhrB9rka/18230
+#EXTINF:-1 tvg-id="elevensports1HD" tvg-name="ELEVEN SPORTS 1ᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_1_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 1ᴴᴰ
+http://rtx.p9325.top:8080/p8GwjVZpk9hk/3buXXhrB9rka/73
+#EXTINF:-1 tvg-id="elevensports1HD" tvg-name="ELEVEN SPORTS 1ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_1_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 1ᶠᴴᴰ
+http://rtx.p9325.top:8080/p8GwjVZpk9hk/3buXXhrB9rka/16052
+#EXTINF:-1 tvg-id="elevensports2HD" tvg-name="ELEVEN SPORTS 2ᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_2_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 2ᴴᴰ
+http://rtx.p9325.top:8080/p8GwjVZpk9hk/3buXXhrB9rka/75
+#EXTINF:-1 tvg-id="elevensports2FHD" tvg-name="ELEVEN SPORTS 2ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_2_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 2ᶠᴴᴰ
+http://rtx.p9325.top:8080/p8GwjVZpk9hk/3buXXhrB9rka/76
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 3" tvg-name="ELEVEN SPORTS 3ᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_3_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 3ᴴᴰ
+http://rtx.p9325.top:8080/p8GwjVZpk9hk/3buXXhrB9rka/77
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 3 HD" tvg-name="ELEVEN SPORTS 3ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_3_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 3ᶠᴴᴰ
+http://rtx.p9325.top:8080/p8GwjVZpk9hk/3buXXhrB9rka/38244
+#EXTINF:-1 tvg-id="elevensports4HD" tvg-name="ELEVEN SPORTS 4ᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_4_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 4ᴴᴰ
+http://rtx.p9325.top:8080/p8GwjVZpk9hk/3buXXhrB9rka/78
+#EXTINF:-1 tvg-id="elevensports4FHD" tvg-name="ELEVEN SPORTS 4ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_4_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 4ᶠᴴᴰ
+http://rtx.p9325.top:8080/p8GwjVZpk9hk/3buXXhrB9rka/38245
+#EXTINF:-1 tvg-id="elevensports5HD" tvg-name="ELEVEN SPORTS 5ᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_5_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 5ᴴᴰ
+http://rtx.p9325.top:8080/p8GwjVZpk9hk/3buXXhrB9rka/79
+#EXTINF:-1 tvg-id="elevensports5FHD" tvg-name="ELEVEN SPORTS 5ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_5_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 5ᶠᴴᴰ
+http://rtx.p9325.top:8080/p8GwjVZpk9hk/3buXXhrB9rka/38246
+#EXTINF:-1 tvg-id="elevensports6HD" tvg-name="ELEVEN SPORTS 6ᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/ELEVEN_SPORTS_6_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 6ᴴᴰ
+http://rtx.p9325.top:8080/p8GwjVZpk9hk/3buXXhrB9rka/80
+#EXTINF:-1 tvg-id="elevensports6FHD" tvg-name="ELEVEN SPORTS 6ᶠᴴᴰ " tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_6_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 6ᶠᴴᴰ 
+http://rtx.p9325.top:8080/p8GwjVZpk9hk/3buXXhrB9rka/38247
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1ˢᵈ" tvg-logo="https://picons.my-ott.com/SportTV/SPORT.TV1.png" group-title="PORTUGAL HD",SPORT TV 1ˢᵈ
+http://rtx.p9325.top:8080/4qJPUN1ZEE/ozMj3sLG5v/62440
+#EXTINF:-1 tvg-id="SPORT TV 1 HD" tvg-name="SPORT TV 1ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV1HD.png" group-title="PORTUGAL HD",SPORT TV 1ᴴᴰ
+http://rtx.p9325.top:8080/4qJPUN1ZEE/ozMj3sLG5v/62439
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1ᴴᴰ2k" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV1HD.png" group-title="PORTUGAL HD",SPORT TV 1ᴴᴰ2k
+http://rtx.p9325.top:8080/4qJPUN1ZEE/ozMj3sLG5v/62442
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV1HD.png" group-title="PORTUGAL HD",SPORT TV 1ᶠᴴᴰ
+http://rtx.p9325.top:8080/4qJPUN1ZEE/ozMj3sLG5v/62441
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1 ᴴᴰ1280" tvg-logo="https://picons.my-ott.com/picons/SPORT_TV_1_HD.png" group-title="PORTUGAL HD",SPORT TV 1 ᴴᴰ1280
+http://rtx.p9325.top:8080/4qJPUN1ZEE/ozMj3sLG5v/43353
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1 ᴴᴰ1BIT" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV1HD.png" group-title="PORTUGAL HD",SPORT TV 1 ᴴᴰ1BIT
+http://rtx.p9325.top:8080/4qJPUN1ZEE/ozMj3sLG5v/62438
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1 UHD" tvg-logo="https://picons.my-ott.com/picons/SPORT_TV_1_HD.png" group-title="PORTUGAL HD",SPORT TV 1 UHD
+http://rtx.p9325.top:8080/4qJPUN1ZEE/ozMj3sLG5v/21640
+#EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="SPORT TV 2 ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV2HD.png" group-title="PORTUGAL HD",SPORT TV 2 ᴴᴰ
+http://rtx.p9325.top:8080/4qJPUN1ZEE/ozMj3sLG5v/54
+#EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="SPORT TV 2ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV2HD.png" group-title="PORTUGAL HD",SPORT TV 2ᶠᴴᴰ
+http://rtx.p9325.top:8080/4qJPUN1ZEE/ozMj3sLG5v/56
+#EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="SPORT TV 3 ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV3HD.png" group-title="PORTUGAL HD",SPORT TV 3 ᴴᴰ
+http://rtx.p9325.top:8080/4qJPUN1ZEE/ozMj3sLG5v/57
+#EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="SPORT TV 3ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV3HD.png" group-title="PORTUGAL HD",SPORT TV 3ᶠᴴᴰ
+http://rtx.p9325.top:8080/4qJPUN1ZEE/ozMj3sLG5v/59
+#EXTINF:-1 tvg-id="SPORT TV 4 HD" tvg-name="SPORT TV 4 ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.T4HD.png" group-title="PORTUGAL HD",SPORT TV 4 ᴴᴰ
+http://rtx.p9325.top:8080/4qJPUN1ZEE/ozMj3sLG5v/60
+#EXTINF:-1 tvg-id="SPORT TV 4 HD" tvg-name="SPORT TV 4ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.T4HD.png" group-title="PORTUGAL HD",SPORT TV 4ᶠᴴᴰ
+http://rtx.p9325.top:8080/4qJPUN1ZEE/ozMj3sLG5v/62
+#EXTINF:-1 tvg-id="SPORT TV 5" tvg-name="SPORT TV 5 ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV5HD.png" group-title="PORTUGAL HD",SPORT TV 5 ᴴᴰ
+http://rtx.p9325.top:8080/4qJPUN1ZEE/ozMj3sLG5v/63
+#EXTINF:-1 tvg-id="SPORTV5HD" tvg-name="SPORT TV 5ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV5HD.png" group-title="PORTUGAL HD",SPORT TV 5ᶠᴴᴰ
+http://rtx.p9325.top:8080/4qJPUN1ZEE/ozMj3sLG5v/65
+#EXTINF:-1 tvg-id="SPORT TV 6 HD" tvg-name="SPORT TV 6ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV6HD.png" group-title="PORTUGAL HD",SPORT TV 6ᴴᴰ
+http://rtx.p9325.top:8080/4qJPUN1ZEE/ozMj3sLG5v/37967
+#EXTINF:-1 tvg-id="SPORT TV 6 FHD" tvg-name="SPORT TV 6ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV6HD.png" group-title="PORTUGAL HD",SPORT TV 6ᶠᴴᴰ
+http://rtx.p9325.top:8080/4qJPUN1ZEE/ozMj3sLG5v/40698
+#EXTINF:-1 tvg-id="BTV FHD" tvg-name="BTVˢᵈ" tvg-logo="https://picons.my-ott.com/picons/BTV.png" group-title="PORTUGAL HD",BTVˢᵈ
+http://rtx.p9325.top:8080/4qJPUN1ZEE/ozMj3sLG5v/67
+#EXTINF:-1 tvg-id="BTV HD" tvg-name="BTVᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/BTV_HD.png" group-title="PORTUGAL HD",BTVᴴᴰ
+http://rtx.p9325.top:8080/4qJPUN1ZEE/ozMj3sLG5v/68
+#EXTINF:-1 tvg-id="BTV FHD" tvg-name="BTVᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/BTV_HD.png" group-title="PORTUGAL HD",BTVᶠᴴᴰ
+http://rtx.p9325.top:8080/4qJPUN1ZEE/ozMj3sLG5v/70
+#EXTINF:-1 tvg-id="BTV FHD" tvg-name="BTV  EXPERIENCEᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/BTV_HD.png" group-title="PORTUGAL HD",BTV  EXPERIENCEᴴᴰ
+http://rtx.p9325.top:8080/4qJPUN1ZEE/ozMj3sLG5v/63252
+#EXTINF:-1 tvg-id="elevensports1HD" tvg-name="ELEVEN SPORTS 1ˢᵈ" tvg-logo="https://picons.my-ott.com/eleven/ELEVEN1_NEW.png" group-title="PORTUGAL HD",ELEVEN SPORTS 1ˢᵈ
+http://rtx.p9325.top:8080/4qJPUN1ZEE/ozMj3sLG5v/18230
+#EXTINF:-1 tvg-id="elevensports1HD" tvg-name="ELEVEN SPORTS 1ᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_1_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 1ᴴᴰ
+http://rtx.p9325.top:8080/4qJPUN1ZEE/ozMj3sLG5v/73
+#EXTINF:-1 tvg-id="elevensports1HD" tvg-name="ELEVEN SPORTS 1ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_1_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 1ᶠᴴᴰ
+http://rtx.p9325.top:8080/4qJPUN1ZEE/ozMj3sLG5v/16052
+#EXTINF:-1 tvg-id="elevensports2HD" tvg-name="ELEVEN SPORTS 2ᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_2_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 2ᴴᴰ
+http://rtx.p9325.top:8080/4qJPUN1ZEE/ozMj3sLG5v/75
+#EXTINF:-1 tvg-id="elevensports2FHD" tvg-name="ELEVEN SPORTS 2ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_2_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 2ᶠᴴᴰ
+http://rtx.p9325.top:8080/4qJPUN1ZEE/ozMj3sLG5v/76
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 3" tvg-name="ELEVEN SPORTS 3ᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_3_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 3ᴴᴰ
+http://rtx.p9325.top:8080/4qJPUN1ZEE/ozMj3sLG5v/77
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 3 HD" tvg-name="ELEVEN SPORTS 3ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_3_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 3ᶠᴴᴰ
+http://rtx.p9325.top:8080/4qJPUN1ZEE/ozMj3sLG5v/38244
+#EXTINF:-1 tvg-id="elevensports4HD" tvg-name="ELEVEN SPORTS 4ᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_4_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 4ᴴᴰ
+http://rtx.p9325.top:8080/4qJPUN1ZEE/ozMj3sLG5v/78
+#EXTINF:-1 tvg-id="elevensports4FHD" tvg-name="ELEVEN SPORTS 4ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_4_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 4ᶠᴴᴰ
+http://rtx.p9325.top:8080/4qJPUN1ZEE/ozMj3sLG5v/38245
+#EXTINF:-1 tvg-id="elevensports5HD" tvg-name="ELEVEN SPORTS 5ᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_5_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 5ᴴᴰ
+http://rtx.p9325.top:8080/4qJPUN1ZEE/ozMj3sLG5v/79
+#EXTINF:-1 tvg-id="elevensports5FHD" tvg-name="ELEVEN SPORTS 5ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_5_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 5ᶠᴴᴰ
+http://rtx.p9325.top:8080/4qJPUN1ZEE/ozMj3sLG5v/38246
+#EXTINF:-1 tvg-id="elevensports6HD" tvg-name="ELEVEN SPORTS 6ᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/ELEVEN_SPORTS_6_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 6ᴴᴰ
+http://rtx.p9325.top:8080/4qJPUN1ZEE/ozMj3sLG5v/80
+#EXTINF:-1 tvg-id="elevensports6FHD" tvg-name="ELEVEN SPORTS 6ᶠᴴᴰ " tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_6_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 6ᶠᴴᴰ 
+http://rtx.p9325.top:8080/4qJPUN1ZEE/ozMj3sLG5v/38247
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
